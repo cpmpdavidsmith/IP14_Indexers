@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "IP14_Indexers/1.0.0": {
+        "runtime": {
+          "IP14_Indexers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IP14_Indexers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

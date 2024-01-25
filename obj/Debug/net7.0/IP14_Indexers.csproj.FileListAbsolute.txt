@@ -1,0 +1,15 @@
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/bin/Debug/net7.0/IP14_Indexers
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/bin/Debug/net7.0/IP14_Indexers.deps.json
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/bin/Debug/net7.0/IP14_Indexers.runtimeconfig.json
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/bin/Debug/net7.0/IP14_Indexers.dll
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/bin/Debug/net7.0/IP14_Indexers.pdb
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/IP14_Indexers.csproj.AssemblyReference.cache
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/IP14_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/IP14_Indexers.AssemblyInfoInputs.cache
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/IP14_Indexers.AssemblyInfo.cs
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/IP14_Indexers.csproj.CoreCompileInputs.cache
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/IP14_Indexers.dll
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/refint/IP14_Indexers.dll
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/IP14_Indexers.pdb
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/IP14_Indexers.genruntimeconfig.cache
+/Users/davidsmith/Desktop/Repos/IP14_Indexers/IP14_Indexers/obj/Debug/net7.0/ref/IP14_Indexers.dll
